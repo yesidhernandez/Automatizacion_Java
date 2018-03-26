@@ -16,16 +16,16 @@
 
   <dependencies>
   
-		<!-- Dependencia necesaria para librerías de JUnit-->	
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<version>4.12</version>
-			<scope>test</scope>
-		</dependency>
+	<!-- Dependencia necesaria para librerías de JUnit-->	
+	<dependency>
+		<groupId>junit</groupId>
+		<artifactId>junit</artifactId>
+		<version>4.12</version>
+		<scope>test</scope>
+	</dependency>
 		
-		<!--- Dependiencia necesaria para librerias de Selenium -->
-		<dependency>
+	<!--- Dependiencia necesaria para librerias de Selenium -->
+	<dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
             <version>3.8.1</version>
@@ -39,37 +39,37 @@
         </dependency>
         
         <dependency>
-		    <groupId>info.cukes</groupId>
-		    <artifactId>cucumber-junit</artifactId>
-		    <version>1.2.4</version>
-		    <scope>test</scope>
-		</dependency>
+	    <groupId>info.cukes</groupId>
+	    <artifactId>cucumber-junit</artifactId>
+	    <version>1.2.4</version>
+	    <scope>test</scope>
+	</dependency>
         
         <dependency>
-		    <groupId>info.cukes</groupId>
-		    <artifactId>cucumber-core</artifactId>
-		    <version>1.2.4</version>
-		</dependency>
+	    <groupId>info.cukes</groupId>
+	    <artifactId>cucumber-core</artifactId>
+	    <version>1.2.4</version>
+	</dependency>
 
-		<!--- Dependiencias necesarias para librerias POI 3.17 -->
-		<dependency>
-			<groupId>org.apache.poi</groupId>
-			<artifactId>poi</artifactId>
-			<version>3.17</version>
-		</dependency>
+	<!--- Dependiencias necesarias para librerias POI 3.17 -->
+	<dependency>
+		<groupId>org.apache.poi</groupId>
+		<artifactId>poi</artifactId>
+		<version>3.17</version>
+	</dependency>
 
-		<dependency>
-			<groupId>org.apache.poi</groupId>
-			<artifactId>poi-ooxml</artifactId>
-			<version>3.17</version>
-		</dependency>
+	<dependency>
+		<groupId>org.apache.poi</groupId>
+		<artifactId>poi-ooxml</artifactId>
+		<version>3.17</version>
+	</dependency>
 		
-		<!--- Dependiencia necesaria para librerias log4j -->
-		<dependency>
-			<groupId>log4j</groupId>
-			<artifactId>log4j</artifactId>
-			<version>1.2.17</version>
-		</dependency>
+	<!--- Dependiencia necesaria para librerias log4j -->
+	<dependency>
+		<groupId>log4j</groupId>
+		<artifactId>log4j</artifactId>
+		<version>1.2.17</version>
+	</dependency>
 		  
   </dependencies>
 
