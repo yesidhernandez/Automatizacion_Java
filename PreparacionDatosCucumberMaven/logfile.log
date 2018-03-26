@@ -1,0 +1,65 @@
+2018-03-26 10:59:23,937 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 10:59:23,953 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 10:59:23,953 INFO  [LogAuditoria] - ******************** Inició el caso de prueba ***********************
+2018-03-26 10:59:23,953 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 10:59:23,953 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 10:59:23,969 INFO  [LogAuditoria] - Se pudo copiar el archivo de preparaci�n de datos exitosamente: ToolsQA.feature
+2018-03-26 10:59:24,594 INFO  [LogAuditoria] - Se pudo acceder al archivo Data.xlsx correctamente
+2018-03-26 10:59:24,594 INFO  [LogAuditoria] - Se copiaron correctamente los datos del archivo Data.xlsx al archivo: ToolsQA.feature
+2018-03-26 10:59:24,594 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 10:59:24,594 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 10:59:24,594 INFO  [LogAuditoria] - ******************* Finalizó el caso de prueba **********************
+2018-03-26 10:59:24,594 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 10:59:24,594 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:00:35,764 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:00:35,780 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:00:35,780 INFO  [LogAuditoria] - ******************** Inició el caso de prueba ***********************
+2018-03-26 11:00:35,780 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:00:35,780 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:00:35,795 INFO  [LogAuditoria] - Se pudo copiar el archivo de preparaci�n de datos exitosamente: ToolsQA.feature
+2018-03-26 11:00:36,436 INFO  [LogAuditoria] - Se pudo acceder al archivo Data.xlsx correctamente
+2018-03-26 11:00:36,436 INFO  [LogAuditoria] - Se copiaron correctamente los datos del archivo Data.xlsx al archivo: ToolsQA.feature
+2018-03-26 11:00:36,436 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:00:36,436 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:00:36,436 INFO  [LogAuditoria] - ******************* Finalizó el caso de prueba **********************
+2018-03-26 11:00:36,436 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:00:36,436 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:01:28,407 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:01:28,407 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:01:28,407 INFO  [LogAuditoria] - ******************** Inició el caso de prueba ***********************
+2018-03-26 11:01:28,407 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:01:28,407 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:01:28,422 INFO  [LogAuditoria] - Se pudo copiar el archivo de preparaci�n de datos exitosamente: ToolsQA.feature
+2018-03-26 11:01:29,094 INFO  [LogAuditoria] - Se pudo acceder al archivo Data.xlsx correctamente
+2018-03-26 11:01:29,110 INFO  [LogAuditoria] - Se copiaron correctamente los datos del archivo Data.xlsx al archivo: ToolsQA.feature
+2018-03-26 11:01:29,110 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:01:29,110 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:01:29,110 INFO  [LogAuditoria] - ******************* Finalizó el caso de prueba **********************
+2018-03-26 11:01:29,110 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:01:29,110 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:02:59,591 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:02:59,591 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:02:59,591 INFO  [LogAuditoria] - ******************** Inició el caso de prueba ***********************
+2018-03-26 11:02:59,591 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:02:59,591 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:02:59,607 INFO  [LogAuditoria] - Se pudo copiar el archivo de preparaci�n de datos exitosamente: ToolsQA.feature
+2018-03-26 11:03:00,310 INFO  [LogAuditoria] - Se pudo acceder al archivo Data.xlsx correctamente
+2018-03-26 11:03:00,310 INFO  [LogAuditoria] - Se copiaron correctamente los datos del archivo Data.xlsx al archivo: ToolsQA.feature
+2018-03-26 11:03:00,310 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:03:00,310 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:03:00,310 INFO  [LogAuditoria] - ******************* Finalizó el caso de prueba **********************
+2018-03-26 11:03:00,310 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:03:00,310 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:04:04,228 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:04:04,228 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:04:04,228 INFO  [LogAuditoria] - ******************** Inició el caso de prueba ***********************
+2018-03-26 11:04:04,228 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:04:04,228 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:04:04,244 INFO  [LogAuditoria] - Se pudo copiar el archivo de preparaci�n de datos exitosamente: ToolsQA.feature
+2018-03-26 11:04:04,869 INFO  [LogAuditoria] - Se pudo acceder al archivo Data.xlsx correctamente
+2018-03-26 11:04:04,869 INFO  [LogAuditoria] - Se copiaron correctamente los datos del archivo Data.xlsx al archivo: ToolsQA.feature
+2018-03-26 11:04:04,869 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:04:04,869 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:04:04,869 INFO  [LogAuditoria] - ******************* Finalizó el caso de prueba **********************
+2018-03-26 11:04:04,869 INFO  [LogAuditoria] - *********************************************************************
+2018-03-26 11:04:04,869 INFO  [LogAuditoria] - *********************************************************************
